@@ -1,0 +1,3 @@
+Project function: output information about the winners and prize–winners of competitions in the selected sport in the following format: photo and name of the athlete - achievements. When you hover over the competition the athlete took part in, the block with his name takes the color of the medal that the athlete won.
+
+List of external dependencies: library d3.js for interactive visualization of information about an athlete, React.js to simplify the structure of the code.

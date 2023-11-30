@@ -1,0 +1,68 @@
+.main {
+    display: flex;
+}
+
+.aside {
+    width: 300px;
+}
+
+.content {
+    flex-grow: 0.7;
+}
+
+#act_names{
+    width: 250px;
+}
+
+#act_names{
+    text-align: center;
+}
+
+#ActivlistContainer{
+    height: 300px;
+    width: 250px;
+    overflow: hidden;
+    overflow-y: scroll;
+    border: black 1px solid;
+}
+
+#sport_infa{
+    padding-right: 100px;
+}
+
+#sport_name{
+    width: 250px;
+    text-align: center;
+    /*float: center;*/
+}
+
+#SportsmenlistContainer{
+    height: 200px;
+    width: 250px;
+    overflow: hidden;
+    overflow-y: scroll;
+    border: black 1px solid;
+}
+
+#sportsmanAchievUl{
+    height: 150px;
+    width: 250px;
+    overflow: hidden;
+    overflow-y: scroll;
+    border: black 1px solid;
+}
+
+#sportsman_infa{
+    float: right;
+    /*padding-left: 50px;*/
+    
+}
+
+#sportsman_name{
+    width: 250px;
+    text-align: center;
+}
+
+/*#image-container{
+    background-image: photo_path
+}*/
